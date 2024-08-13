@@ -1,0 +1,93 @@
+19:37:19.704  INFO  manager.ApplicationManager - All tests run in Chrome Browser
+19:37:21.905  INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+19:37:21.933  INFO  tests.TestBase - Name of method-->loginSuccess
+19:37:21.934  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:26.983  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:26.987  INFO  tests.TestBase - Start test with name 'loginSuccess'
+19:37:26.988  INFO  tests.TestBase - Test data ---> email: mara@gmail.com&Mmar123456$password
+19:37:26.990  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/login']
+19:37:27.027  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/login']
+19:37:27.036  INFO  manager.ApplicationManager - start method click
+19:37:27.211  INFO  manager.ApplicationManager - done method click
+19:37:27.211  INFO  manager.HelperBase - open form by click on button with locator By.cssSelector("a[href='/login']"
+19:37:27.212  INFO  manager.ApplicationManager - before find element: By.name: email
+19:37:27.417  INFO  manager.ApplicationManager - element found success: By.name: email
+19:37:27.417  INFO  manager.ApplicationManager - start method click
+19:37:27.605  INFO  manager.ApplicationManager - done method click
+19:37:28.182  INFO  manager.HelperBase - type in input with locator By.name("email")
+19:37:28.182  INFO  manager.ApplicationManager - before find element: By.xpath: //input[last()]
+19:37:28.215  INFO  manager.ApplicationManager - element found success: By.xpath: //input[last()]
+19:37:28.215  INFO  manager.ApplicationManager - start method click
+19:37:28.273  INFO  manager.ApplicationManager - done method click
+19:37:28.573  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Login']
+19:37:28.605  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Login']
+19:37:28.606  INFO  manager.ApplicationManager - start method click
+19:37:28.962  INFO  manager.ApplicationManager - done method click
+19:37:28.962  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:30.262  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:30.265  INFO  tests.TestBase - Assert check is element button 'Sign out' present
+19:37:30.269  INFO  tests.TestBase - =====================================================
+19:37:30.270  INFO  tests.TestBase - Name of method-->loginSuccess
+19:37:30.271  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:30.299  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:30.299  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:30.333  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:30.333  INFO  manager.ApplicationManager - start method click
+19:37:30.406  INFO  manager.ApplicationManager - done method click
+19:37:30.406  INFO  tests.TestBase - Before method logout finish 
+19:37:30.408  INFO  tests.TestBase - Start test with name 'loginSuccess'
+19:37:30.408  INFO  tests.TestBase - Test data ---> email: mara@gmail.com&Mmar123456$password
+19:37:30.408  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/login']
+19:37:30.452  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/login']
+19:37:30.453  INFO  manager.ApplicationManager - start method click
+19:37:30.547  INFO  manager.ApplicationManager - done method click
+19:37:30.547  INFO  manager.HelperBase - open form by click on button with locator By.cssSelector("a[href='/login']"
+19:37:30.547  INFO  manager.ApplicationManager - before find element: By.name: email
+19:37:30.573  INFO  manager.ApplicationManager - element found success: By.name: email
+19:37:30.575  INFO  manager.ApplicationManager - start method click
+19:37:30.658  INFO  manager.ApplicationManager - done method click
+19:37:31.179  INFO  manager.HelperBase - type in input with locator By.name("email")
+19:37:31.179  INFO  manager.ApplicationManager - before find element: By.xpath: //input[last()]
+19:37:31.207  INFO  manager.ApplicationManager - element found success: By.xpath: //input[last()]
+19:37:31.209  INFO  manager.ApplicationManager - start method click
+19:37:31.318  INFO  manager.ApplicationManager - done method click
+19:37:31.755  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Login']
+19:37:31.797  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Login']
+19:37:31.797  INFO  manager.ApplicationManager - start method click
+19:37:31.873  INFO  manager.ApplicationManager - done method click
+19:37:31.873  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:32.210  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:32.210  INFO  tests.TestBase - Assert check is element button 'Sign out' present
+19:37:32.212  INFO  tests.TestBase - =====================================================
+19:37:32.214  INFO  tests.TestBase - Name of method-->loginSuccess
+19:37:32.215  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:32.238  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:32.239  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:32.252  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:32.253  INFO  manager.ApplicationManager - start method click
+19:37:32.327  INFO  manager.ApplicationManager - done method click
+19:37:32.329  INFO  tests.TestBase - Before method logout finish 
+19:37:32.331  INFO  tests.TestBase - Start test with name 'loginSuccess'
+19:37:32.331  INFO  tests.TestBase - Test data ---> email: mara@gmail.com&Mmar123456$password
+19:37:32.332  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/login']
+19:37:32.352  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/login']
+19:37:32.353  INFO  manager.ApplicationManager - start method click
+19:37:32.426  INFO  manager.ApplicationManager - done method click
+19:37:32.426  INFO  manager.HelperBase - open form by click on button with locator By.cssSelector("a[href='/login']"
+19:37:32.427  INFO  manager.ApplicationManager - before find element: By.name: email
+19:37:32.445  INFO  manager.ApplicationManager - element found success: By.name: email
+19:37:32.447  INFO  manager.ApplicationManager - start method click
+19:37:32.518  INFO  manager.ApplicationManager - done method click
+19:37:32.845  INFO  manager.HelperBase - type in input with locator By.name("email")
+19:37:32.846  INFO  manager.ApplicationManager - before find element: By.xpath: //input[last()]
+19:37:32.863  INFO  manager.ApplicationManager - element found success: By.xpath: //input[last()]
+19:37:32.864  INFO  manager.ApplicationManager - start method click
+19:37:32.919  INFO  manager.ApplicationManager - done method click
+19:37:33.179  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Login']
+19:37:33.203  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Login']
+19:37:33.203  INFO  manager.ApplicationManager - start method click
+19:37:33.237  INFO  manager.ApplicationManager - done method click
+19:37:33.239  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+19:37:33.557  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+19:37:33.557  INFO  tests.TestBase - Assert check is element button 'Sign out' present
+19:37:33.559  INFO  tests.TestBase - =====================================================

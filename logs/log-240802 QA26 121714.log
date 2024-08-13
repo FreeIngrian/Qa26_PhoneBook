@@ -1,0 +1,21 @@
+12:17:17.893  INFO  manager.ApplicationManager - All tests run in Chrome Browser
+12:17:18.670  INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+12:17:18.759  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+12:17:23.795  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+12:17:23.797  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/login']
+12:17:23.829  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/login']
+12:17:23.835  INFO  manager.ApplicationManager - start method click
+12:17:23.930  INFO  manager.ApplicationManager - done method click
+12:17:23.932  INFO  manager.HelperBase - open form by click on button with locator By.cssSelector("a[href='/login']"
+12:17:23.932  INFO  manager.ApplicationManager - before find element: By.name: email
+12:17:23.952  INFO  manager.ApplicationManager - element found success: By.name: email
+12:17:23.954  INFO  manager.ApplicationManager - start method click
+12:17:24.036  INFO  manager.ApplicationManager - done method click
+12:17:24.289  INFO  manager.ApplicationManager - before find element: By.xpath: //input[last()]
+12:17:24.303  INFO  manager.ApplicationManager - element found success: By.xpath: //input[last()]
+12:17:24.304  INFO  manager.ApplicationManager - start method click
+12:17:24.346  INFO  manager.ApplicationManager - done method click
+12:17:24.545  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Login']
+12:17:24.566  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Login']
+12:17:24.567  INFO  manager.ApplicationManager - start method click
+12:17:24.612  INFO  manager.ApplicationManager - done method click

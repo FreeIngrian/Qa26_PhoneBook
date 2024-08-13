@@ -1,0 +1,256 @@
+12:23:55.759  INFO  manager.ApplicationManager - All tests run in Chrome Browser
+12:23:56.461  INFO  manager.ApplicationManager - The link--->https://telranedu.web.app/home
+12:23:56.521  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Sign Out']
+12:24:01.563  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Sign Out']
+12:24:01.564  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/login']
+12:24:01.594  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/login']
+12:24:01.600  INFO  manager.ApplicationManager - start method click
+12:24:01.717  INFO  manager.ApplicationManager - done method click
+12:24:01.717  INFO  manager.HelperBase - open form by click on button with locator By.cssSelector("a[href='/login']"
+12:24:01.718  INFO  manager.ApplicationManager - before find element: By.name: email
+12:24:01.758  INFO  manager.ApplicationManager - element found success: By.name: email
+12:24:01.759  INFO  manager.ApplicationManager - start method click
+12:24:01.856  INFO  manager.ApplicationManager - done method click
+12:24:02.142  INFO  manager.ApplicationManager - before find element: By.xpath: //input[last()]
+12:24:02.168  INFO  manager.ApplicationManager - element found success: By.xpath: //input[last()]
+12:24:02.169  INFO  manager.ApplicationManager - start method click
+12:24:02.221  INFO  manager.ApplicationManager - done method click
+12:24:02.449  INFO  manager.ApplicationManager - before find element: By.xpath: //button[text()='Login']
+12:24:02.478  INFO  manager.ApplicationManager - element found success: By.xpath: //button[text()='Login']
+12:24:02.478  INFO  manager.ApplicationManager - start method click
+12:24:02.532  INFO  manager.ApplicationManager - done method click
+12:24:02.562  INFO  tests.TestBase - Name of method-->addContactSuccessAllFieldsCSV
+12:24:02.564  INFO  tests.TestBase - Tests run with data: --->Contact(name=Harry, lastName=harry@gmail.com, email=null, phone=123456789564, address=NY, description=hero)
+12:24:03.074  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/add']
+12:24:03.407  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/add']
+12:24:03.407  INFO  manager.ApplicationManager - start method click
+12:24:03.528  INFO  manager.ApplicationManager - done method click
+12:24:03.528  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Name']
+12:24:03.565  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Name']
+12:24:03.565  INFO  manager.ApplicationManager - start method click
+12:24:03.650  INFO  manager.ApplicationManager - done method click
+12:24:03.880  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Last Name']
+12:24:03.908  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Last Name']
+12:24:03.908  INFO  manager.ApplicationManager - start method click
+12:24:03.967  INFO  manager.ApplicationManager - done method click
+12:24:04.189  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Phone']
+12:24:04.214  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Phone']
+12:24:04.215  INFO  manager.ApplicationManager - start method click
+12:24:04.264  INFO  manager.ApplicationManager - done method click
+12:24:04.483  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='email']
+12:24:04.510  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='email']
+12:24:04.510  INFO  manager.ApplicationManager - start method click
+12:24:04.551  INFO  manager.ApplicationManager - done method click
+12:24:04.680  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Address']
+12:24:04.705  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Address']
+12:24:04.706  INFO  manager.ApplicationManager - start method click
+12:24:04.765  INFO  manager.ApplicationManager - done method click
+12:24:04.962  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='description']
+12:24:04.977  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='description']
+12:24:04.977  INFO  manager.ApplicationManager - start method click
+12:24:05.024  INFO  manager.ApplicationManager - done method click
+12:24:05.231  INFO  manager.ApplicationManager - before find element: By.cssSelector: .add_form__2rsm2>button
+12:24:05.258  INFO  manager.ApplicationManager - element found success: By.cssSelector: .add_form__2rsm2>button
+12:24:05.259  INFO  manager.ApplicationManager - start method click
+12:24:05.313  INFO  manager.ApplicationManager - done method click
+12:24:05.313  INFO  manager.ApplicationManager - before find element: By.cssSelector: h2
+12:24:06.199  INFO  manager.ApplicationManager - element found success: By.cssSelector: h2
+12:24:06.239  INFO  manager.ApplicationManager - get text from the element with text: Hari13167
+12:24:06.262  INFO  manager.ApplicationManager - got the text successful
+12:24:06.275  INFO  manager.ApplicationManager - get text from the element with text: Hari1456
+12:24:06.294  INFO  manager.ApplicationManager - got the text successful
+12:24:06.310  INFO  manager.ApplicationManager - get text from the element with text: Tony
+12:24:06.321  INFO  manager.ApplicationManager - got the text successful
+12:24:06.335  INFO  manager.ApplicationManager - get text from the element with text: TonyReq
+12:24:06.345  INFO  manager.ApplicationManager - got the text successful
+12:24:06.357  INFO  manager.ApplicationManager - get text from the element with text: Bart
+12:24:06.376  INFO  manager.ApplicationManager - got the text successful
+12:24:06.388  INFO  manager.ApplicationManager - get text from the element with text: Harry
+12:24:06.400  INFO  manager.ApplicationManager - got the text successful
+12:24:06.404  INFO  manager.ApplicationManager - before find element: By.cssSelector: h3
+12:24:06.426  INFO  manager.ApplicationManager - element found success: By.cssSelector: h3
+12:24:06.448  INFO  manager.ApplicationManager - get text from the element with text: 343434444431316
+12:24:06.461  INFO  manager.ApplicationManager - got the text successful
+12:24:06.477  INFO  manager.ApplicationManager - get text from the element with text: 343434444431456
+12:24:06.493  INFO  manager.ApplicationManager - got the text successful
+12:24:06.507  INFO  manager.ApplicationManager - get text from the element with text: 34343435556
+12:24:06.525  INFO  manager.ApplicationManager - got the text successful
+12:24:06.539  INFO  manager.ApplicationManager - get text from the element with text: 3434347797
+12:24:06.556  INFO  manager.ApplicationManager - got the text successful
+12:24:06.574  INFO  manager.ApplicationManager - get text from the element with text: 123336665445
+12:24:06.587  INFO  manager.ApplicationManager - got the text successful
+12:24:06.603  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:06.617  INFO  manager.ApplicationManager - got the text successful
+12:24:06.633  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:06.649  INFO  manager.ApplicationManager - got the text successful
+12:24:06.672  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:06.688  INFO  manager.ApplicationManager - got the text successful
+12:24:06.709  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:06.726  INFO  manager.ApplicationManager - got the text successful
+12:24:06.744  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:06.760  INFO  manager.ApplicationManager - got the text successful
+12:24:06.778  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:06.792  INFO  manager.ApplicationManager - got the text successful
+12:24:06.811  INFO  manager.ApplicationManager - get text from the element with text: 123456789564
+12:24:06.828  INFO  manager.ApplicationManager - got the text successful
+12:24:06.834  INFO  tests.TestBase - =====================================================
+12:24:06.836  INFO  tests.TestBase - Name of method-->addContactSuccessAllFieldsCSV
+12:24:06.838  INFO  tests.TestBase - Tests run with data: --->Contact(name=Sara, lastName=sara@gmail.com, email=null, phone=123456789456, address=NY, description=hero)
+12:24:07.346  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/add']
+12:24:07.374  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/add']
+12:24:07.374  INFO  manager.ApplicationManager - start method click
+12:24:07.428  INFO  manager.ApplicationManager - done method click
+12:24:07.428  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Name']
+12:24:07.464  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Name']
+12:24:07.464  INFO  manager.ApplicationManager - start method click
+12:24:07.511  INFO  manager.ApplicationManager - done method click
+12:24:07.710  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Last Name']
+12:24:07.730  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Last Name']
+12:24:07.731  INFO  manager.ApplicationManager - start method click
+12:24:07.776  INFO  manager.ApplicationManager - done method click
+12:24:07.971  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Phone']
+12:24:07.992  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Phone']
+12:24:07.992  INFO  manager.ApplicationManager - start method click
+12:24:08.046  INFO  manager.ApplicationManager - done method click
+12:24:08.230  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='email']
+12:24:08.245  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='email']
+12:24:08.245  INFO  manager.ApplicationManager - start method click
+12:24:08.274  INFO  manager.ApplicationManager - done method click
+12:24:08.432  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Address']
+12:24:08.462  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Address']
+12:24:08.462  INFO  manager.ApplicationManager - start method click
+12:24:08.516  INFO  manager.ApplicationManager - done method click
+12:24:08.742  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='description']
+12:24:08.755  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='description']
+12:24:08.755  INFO  manager.ApplicationManager - start method click
+12:24:08.813  INFO  manager.ApplicationManager - done method click
+12:24:09.062  INFO  manager.ApplicationManager - before find element: By.cssSelector: .add_form__2rsm2>button
+12:24:09.092  INFO  manager.ApplicationManager - element found success: By.cssSelector: .add_form__2rsm2>button
+12:24:09.093  INFO  manager.ApplicationManager - start method click
+12:24:09.158  INFO  manager.ApplicationManager - done method click
+12:24:09.158  INFO  manager.ApplicationManager - before find element: By.cssSelector: h2
+12:24:09.505  INFO  manager.ApplicationManager - element found success: By.cssSelector: h2
+12:24:09.514  INFO  manager.ApplicationManager - get text from the element with text: Hari13167
+12:24:09.524  INFO  manager.ApplicationManager - got the text successful
+12:24:09.533  INFO  manager.ApplicationManager - get text from the element with text: Hari1456
+12:24:09.545  INFO  manager.ApplicationManager - got the text successful
+12:24:09.552  INFO  manager.ApplicationManager - get text from the element with text: Tony
+12:24:09.561  INFO  manager.ApplicationManager - got the text successful
+12:24:09.570  INFO  manager.ApplicationManager - get text from the element with text: TonyReq
+12:24:09.578  INFO  manager.ApplicationManager - got the text successful
+12:24:09.589  INFO  manager.ApplicationManager - get text from the element with text: Bart
+12:24:09.600  INFO  manager.ApplicationManager - got the text successful
+12:24:09.611  INFO  manager.ApplicationManager - get text from the element with text: Harry
+12:24:09.625  INFO  manager.ApplicationManager - got the text successful
+12:24:09.636  INFO  manager.ApplicationManager - get text from the element with text: Molly
+12:24:09.647  INFO  manager.ApplicationManager - got the text successful
+12:24:09.660  INFO  manager.ApplicationManager - get text from the element with text: Sara
+12:24:09.674  INFO  manager.ApplicationManager - got the text successful
+12:24:09.674  INFO  manager.ApplicationManager - before find element: By.cssSelector: h3
+12:24:09.694  INFO  manager.ApplicationManager - element found success: By.cssSelector: h3
+12:24:09.703  INFO  manager.ApplicationManager - get text from the element with text: 343434444431316
+12:24:09.710  INFO  manager.ApplicationManager - got the text successful
+12:24:09.725  INFO  manager.ApplicationManager - get text from the element with text: 343434444431456
+12:24:09.740  INFO  manager.ApplicationManager - got the text successful
+12:24:09.755  INFO  manager.ApplicationManager - get text from the element with text: 34343435556
+12:24:09.765  INFO  manager.ApplicationManager - got the text successful
+12:24:09.775  INFO  manager.ApplicationManager - get text from the element with text: 3434347797
+12:24:09.782  INFO  manager.ApplicationManager - got the text successful
+12:24:09.797  INFO  manager.ApplicationManager - get text from the element with text: 123336665445
+12:24:09.808  INFO  manager.ApplicationManager - got the text successful
+12:24:09.815  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:09.827  INFO  manager.ApplicationManager - got the text successful
+12:24:09.840  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:09.848  INFO  manager.ApplicationManager - got the text successful
+12:24:09.864  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:09.876  INFO  manager.ApplicationManager - got the text successful
+12:24:09.882  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:09.890  INFO  manager.ApplicationManager - got the text successful
+12:24:09.898  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:09.912  INFO  manager.ApplicationManager - got the text successful
+12:24:09.921  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:09.928  INFO  manager.ApplicationManager - got the text successful
+12:24:09.939  INFO  manager.ApplicationManager - get text from the element with text: 123456789564
+12:24:09.947  INFO  manager.ApplicationManager - got the text successful
+12:24:09.956  INFO  manager.ApplicationManager - get text from the element with text: 123456789456
+12:24:09.972  INFO  manager.ApplicationManager - got the text successful
+12:24:09.973  INFO  tests.TestBase - =====================================================
+12:24:09.973  INFO  tests.TestBase - Name of method-->addContactSuccessAllFieldsCSV
+12:24:09.974  INFO  tests.TestBase - Tests run with data: --->Contact(name=Molly, lastName=molly@gmail.com, email=null, phone=123456789456, address=NY, description=hero)
+12:24:10.488  INFO  manager.ApplicationManager - before find element: By.cssSelector: a[href='/add']
+12:24:10.512  INFO  manager.ApplicationManager - element found success: By.cssSelector: a[href='/add']
+12:24:10.512  INFO  manager.ApplicationManager - start method click
+12:24:10.591  INFO  manager.ApplicationManager - done method click
+12:24:10.591  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Name']
+12:24:10.624  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Name']
+12:24:10.625  INFO  manager.ApplicationManager - start method click
+12:24:10.726  INFO  manager.ApplicationManager - done method click
+12:24:11.196  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Last Name']
+12:24:11.211  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Last Name']
+12:24:11.211  INFO  manager.ApplicationManager - start method click
+12:24:11.265  INFO  manager.ApplicationManager - done method click
+12:24:11.556  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Phone']
+12:24:11.571  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Phone']
+12:24:11.571  INFO  manager.ApplicationManager - start method click
+12:24:11.615  INFO  manager.ApplicationManager - done method click
+12:24:11.847  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='email']
+12:24:11.864  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='email']
+12:24:11.865  INFO  manager.ApplicationManager - start method click
+12:24:11.908  INFO  manager.ApplicationManager - done method click
+12:24:12.063  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='Address']
+12:24:12.084  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='Address']
+12:24:12.084  INFO  manager.ApplicationManager - start method click
+12:24:12.126  INFO  manager.ApplicationManager - done method click
+12:24:12.312  INFO  manager.ApplicationManager - before find element: By.cssSelector: [placeholder='description']
+12:24:12.331  INFO  manager.ApplicationManager - element found success: By.cssSelector: [placeholder='description']
+12:24:12.331  INFO  manager.ApplicationManager - start method click
+12:24:12.378  INFO  manager.ApplicationManager - done method click
+12:24:12.566  INFO  manager.ApplicationManager - before find element: By.cssSelector: .add_form__2rsm2>button
+12:24:12.582  INFO  manager.ApplicationManager - element found success: By.cssSelector: .add_form__2rsm2>button
+12:24:12.584  INFO  manager.ApplicationManager - start method click
+12:24:12.613  INFO  manager.ApplicationManager - done method click
+12:24:12.613  INFO  manager.ApplicationManager - before find element: By.cssSelector: h2
+12:24:13.247  INFO  manager.ApplicationManager - element found success: By.cssSelector: h2
+12:24:13.264  INFO  manager.ApplicationManager - get text from the element with text: Hari13167
+12:24:13.291  INFO  manager.ApplicationManager - got the text successful
+12:24:13.306  INFO  manager.ApplicationManager - get text from the element with text: Hari1456
+12:24:13.316  INFO  manager.ApplicationManager - got the text successful
+12:24:13.329  INFO  manager.ApplicationManager - get text from the element with text: Tony
+12:24:13.334  INFO  manager.ApplicationManager - got the text successful
+12:24:13.345  INFO  manager.ApplicationManager - get text from the element with text: TonyReq
+12:24:13.358  INFO  manager.ApplicationManager - got the text successful
+12:24:13.365  INFO  manager.ApplicationManager - get text from the element with text: Bart
+12:24:13.379  INFO  manager.ApplicationManager - got the text successful
+12:24:13.392  INFO  manager.ApplicationManager - get text from the element with text: Harry
+12:24:13.398  INFO  manager.ApplicationManager - got the text successful
+12:24:13.405  INFO  manager.ApplicationManager - get text from the element with text: Molly
+12:24:13.410  INFO  manager.ApplicationManager - got the text successful
+12:24:13.410  INFO  manager.ApplicationManager - before find element: By.cssSelector: h3
+12:24:13.427  INFO  manager.ApplicationManager - element found success: By.cssSelector: h3
+12:24:13.434  INFO  manager.ApplicationManager - get text from the element with text: 343434444431316
+12:24:13.442  INFO  manager.ApplicationManager - got the text successful
+12:24:13.451  INFO  manager.ApplicationManager - get text from the element with text: 343434444431456
+12:24:13.463  INFO  manager.ApplicationManager - got the text successful
+12:24:13.470  INFO  manager.ApplicationManager - get text from the element with text: 34343435556
+12:24:13.478  INFO  manager.ApplicationManager - got the text successful
+12:24:13.486  INFO  manager.ApplicationManager - get text from the element with text: 3434347797
+12:24:13.496  INFO  manager.ApplicationManager - got the text successful
+12:24:13.505  INFO  manager.ApplicationManager - get text from the element with text: 123336665445
+12:24:13.512  INFO  manager.ApplicationManager - got the text successful
+12:24:13.524  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:13.544  INFO  manager.ApplicationManager - got the text successful
+12:24:13.552  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:13.566  INFO  manager.ApplicationManager - got the text successful
+12:24:13.582  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:13.597  INFO  manager.ApplicationManager - got the text successful
+12:24:13.612  INFO  manager.ApplicationManager - get text from the element with text: 123654789562
+12:24:13.622  INFO  manager.ApplicationManager - got the text successful
+12:24:13.637  INFO  manager.ApplicationManager - get text from the element with text: 125698456712
+12:24:13.647  INFO  manager.ApplicationManager - got the text successful
+12:24:13.660  INFO  manager.ApplicationManager - get text from the element with text: 65874555555
+12:24:13.667  INFO  manager.ApplicationManager - got the text successful
+12:24:13.678  INFO  manager.ApplicationManager - get text from the element with text: 123456789564
+12:24:13.687  INFO  manager.ApplicationManager - got the text successful
+12:24:13.699  INFO  manager.ApplicationManager - get text from the element with text: 123456789456
+12:24:13.712  INFO  manager.ApplicationManager - got the text successful
+12:24:13.714  INFO  tests.TestBase - =====================================================
